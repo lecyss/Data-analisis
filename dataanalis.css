@@ -1,0 +1,15 @@
+.acikiwir88 {
+    border: 4px black;
+    display: flex;
+    justify-content: flex-end;
+}
+.acikiwir88> div >button{
+    background-color: cadetblue;
+    padding: 10px;
+    font-size: 3px;
+    color: black;
+    pointer-events: visibleStroke;
+    border: 3px;
+    align-items: right;
+    display: flex; flex:;
+}   
